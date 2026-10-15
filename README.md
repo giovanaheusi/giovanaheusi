@@ -1,9 +1,4 @@
 # Olá, eu sou a Giovana Heusi 👋
-
-> **EN:** Technical Marketing Lead moving into AI and automation. I build AI agents, automations and data-driven web pages that solve real business problems in healthcare and marketing.
-
-Sou **Líder Técnica de Marketing** em Brasília, com mais de seis anos de experiência em marketing digital, tráfego pago, CRM. Hoje estou em transição para a área de **Inteligência Artificial e Automação**, unindo o que aprendi no marketing com minha formação em tecnologia.
-
 Meu foco é transformar processos manuais em sistemas inteligentes: agentes de IA que atendem e qualificam clientes, automações que eliminam tarefas repetitivas e páginas que medem cada clique.
 
 ## 🚀 Projetos em destaque
