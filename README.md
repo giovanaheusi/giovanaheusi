@@ -14,7 +14,7 @@ Meu foco é transformar processos manuais em sistemas inteligentes: agentes de I
 | [whatsapp-sheet-alerts](https://github.com/giovanaheusi/whatsapp-sheet-alerts) | Lê uma planilha de calendário editorial e envia alertas automáticos no WhatsApp | Python, openpyxl, Green-API |
 | [ritmo-life-tracker](https://github.com/giovanaheusi/ritmo-life-tracker) | App pessoal mobile para acompanhar rotina, metas, hábitos e gastos | HTML, CSS, JavaScript |
 | [link-in-bio-tracking](https://github.com/giovanaheusi/link-in-bio-tracking) | Página de link na bio com rastreamento completo de cliques | HTML, GTM, GA4, UTMs |
-| [seo-landing-page-healthcare](https://github.com/giovanaheusi/seo-landing-page-healthcare) | Landing page para clínica com SEO técnico e dados estruturados | HTML, CSS, Schema.org |
+| [seo-landing-page-healthcare](https://github.com/giovanaheusi/seo-landing-page-healthcare) | Landing page de atendimento domiciliar com SEO on-page, pronta para o RD Station | HTML, CSS, RD Station |
 
 ## 🧰 Ferramentas e tecnologias
 
